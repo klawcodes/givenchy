@@ -1,0 +1,26 @@
+.hero {
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  padding-top: 9.6rem;
+}
+
+h2 {
+  color: #fff;
+  font-family: 'v-light', sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+.discover {
+  color: #fff;
+  font-size: 12px;
+}
+
+.image-1 {
+  padding-top: 4rem;
+}
+
+.imageone {
+  width: 850px;
+}

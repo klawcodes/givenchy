@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+@font-face {
+  font-family: v-roman;
+  src: url('./assets/v-roman.otf');
+}
+
+@font-face {
+  font-family: v-light;
+  src: url('./assets/v-light.otf');
+}
+
+@font-face {
+  font-family: vv;
+  src: url('./assets/vivaldi.otf');
+}

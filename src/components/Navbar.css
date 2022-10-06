@@ -1,0 +1,33 @@
+.navbar-com {
+  position: fixed;
+  width: 100%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+ul {
+  padding-left: 0;
+  display: flex;
+  gap: 2rem;
+  list-style-type: none;
+}
+li {
+  font-family: 'v-light', sans-serif;
+  font-size: 12px;
+  color: #fff;
+}
+
+.logo {
+  position: relative;
+  padding-top: 2.5rem;
+  right: 2.7rem;
+  width: 55px;
+  filter: invert(100%);
+}
+
