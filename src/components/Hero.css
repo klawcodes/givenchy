@@ -2,6 +2,7 @@
   margin: auto;
   align-items: center;
   text-align: center;
+  height: 55rem;
   padding-top: 9.6rem;
 }
 
@@ -9,10 +10,10 @@ h2 {
   color: #fff;
   font-family: 'v-light', sans-serif;
   font-size: 12px;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
 }
 
-.discover {
+.a {
   color: #fff;
   font-size: 12px;
 }

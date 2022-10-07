@@ -11,6 +11,16 @@
   padding-right: 2rem;
 }
 
+.ul-left, .ul-right {
+  color: #fff;
+  transition: .2s ease;
+}
+
+.ul-b {
+  color: #000;
+  transition: .2s ease;
+}
+
 ul {
   padding-left: 0;
   display: flex;
@@ -20,14 +30,18 @@ ul {
 li {
   font-family: 'v-light', sans-serif;
   font-size: 12px;
-  color: #fff;
 }
 
-.logo {
+.logow {
   position: relative;
   padding-top: 2.5rem;
   right: 2.7rem;
   width: 55px;
   filter: invert(100%);
+  transition: .2s ease;
 }
 
+.logob {
+  filter: invert(0);
+  transition: .2s ease;
+}

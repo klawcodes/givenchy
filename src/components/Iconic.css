@@ -1,0 +1,33 @@
+.iconic {
+  background-color: #d2cbbc;
+  height: 93rem;
+  align-items: center;
+  text-align: center;
+}
+
+.i-text-com {
+  padding-top: 10rem;
+}
+
+.i-links {
+  display: flex;
+  justify-content: center;
+  gap: .5rem;
+}
+
+.i-text {
+  color: #000;
+  font-family: 'v-light';
+}
+
+.i-image {
+  padding-top: 4rem;
+}
+
+.imagetwo {
+  width: 870px;
+}
+
+.black {
+  color: #000;
+}

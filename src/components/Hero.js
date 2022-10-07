@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <div className="hero">
       <h2 className="title-o">Women’s Spring Summer 2023 show</h2>
-      <a href="" className="discover">DISCOVER MORE</a>
+      <a href="" className="a">DISCOVER MORE</a>
       <div className="image-1">
         <img className="imageone" src={imageo} />
       </div>

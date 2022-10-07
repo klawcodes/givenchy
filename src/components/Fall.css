@@ -1,0 +1,29 @@
+.fall {
+  background-color: #ececd2;
+  height: 76rem;
+  align-items: center;
+  text-align: center;
+}
+
+.f-com {
+  padding-top: 10rem;
+}
+
+.f-image {
+  display: flex;
+}
+
+.f-img {
+  width: 673px;
+  padding-top: 4rem;
+}
+
+.f-links {
+  justify-content: center;
+  gap: .5rem;
+}
+
+.f-text {
+  color: #000;
+  font-family: 'v-light';
+}
