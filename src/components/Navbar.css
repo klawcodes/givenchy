@@ -14,18 +14,15 @@
 .ul-left, .ul-right {
   color: #fff;
   transition: .2s ease;
+  padding-left: 0;
+  display: flex;
+  gap: 2rem;
+  list-style-type: none;
 }
 
 .ul-b {
   color: #000;
   transition: .2s ease;
-}
-
-ul {
-  padding-left: 0;
-  display: flex;
-  gap: 2rem;
-  list-style-type: none;
 }
 li {
   font-family: 'v-light', sans-serif;

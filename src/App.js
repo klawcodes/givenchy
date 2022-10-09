@@ -7,6 +7,7 @@ import Iconic from './components/Iconic'
 import Fall from './components/Fall'
 import Bag from './components/Bag'
 import FFooter from './components/FFooter'
+import SFooter from './components/SFooter'
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
       <Iconic />
       <Fall />
       <Bag />
+      <FFooter />
+      <SFooter />
     </div>
   );
 }

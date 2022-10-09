@@ -1,0 +1,31 @@
+.sfooter {
+  margin-bottom: 2rem;
+}
+
+.sfooter-com {
+  display: flex;
+  gap: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  padding-left: 1.5rem;
+}
+
+.sf-list {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  padding-top: 2rem;
+}
+
+.list {
+  flex-direction: column;
+  font-size: 15px;
+  color: #fff;
+}
+
+.contact,
+.cs,
+.legal,
+.about {
+  width: 12rem;
+}

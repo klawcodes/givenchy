@@ -1,0 +1,21 @@
+.ffooter {
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  height: 35rem;
+}
+
+.ffooter-com {
+  padding-top: 15rem;
+}
+
+.logot-f {
+}
+
+.imagef {
+  width: 130px;
+  padding-top: 2rem;
+  margin-bottom: 14rem;
+  filter: invert(100%);
+}
+
